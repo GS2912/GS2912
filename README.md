@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garv Soni
-- 👀 I’m interested in contributing to open source Projects
+- 👀 I’m interested in Machine Learning, AI, Cybersecurity and App development projects.
 - 🌱 I’m currently learning JAVA
 - 📫 garvsoni2912@gmail.com
 
