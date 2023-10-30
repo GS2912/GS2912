@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garv Soni
-- 👀 I’m interested in Machine Learning, AI, Cybersecurity and App development projects.
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Machine Learning, AI, Cybersecurity and Web development projects.
+- 🌱 proficient in Java
 - 📫 garvsoni2912@gmail.com
 
 <!---
